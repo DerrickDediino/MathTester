@@ -16,12 +16,12 @@ public class Main {
         total = total + 10;
         System.out.println("The total +10=" + (total));
 
-        System.out.println(firstWord+secondWord);
+        /*System.out.println(firstWord+secondWord);
         System.out.println("The first number + the second number=" + (firstNumber+secondNumber));
         System.out.println("The first number - the second number=" + (firstNumber-secondNumber));
         System.out.println("The first number * the second number=" + (firstNumber*secondNumber));
         System.out.println("The second number / the second number=" + (secondNumber/firstNumber));
-        System.out.println("The modulus of the second number by the first=" +(secondNumber%firstNumber));
+        System.out.println("The modulus of the second number by the first=" +(secondNumber%firstNumber));*/
 
 
 
