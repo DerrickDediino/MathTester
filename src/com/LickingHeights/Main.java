@@ -6,17 +6,11 @@ public class Main {
         String firstWord;
         String secondWord;
         
+        firstWord = "dog";
+        secondWord = "cat";
 
 
-
-
-
-
-
-
-
-
-
+        System.out.println(firstWord+secondWord);
 
 
 
